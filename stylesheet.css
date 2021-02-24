@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: "Lucida Grande";
+    
+  }
+  
+  a {
+    text-decoration: none;
+  }
+
+header{
+    background-color: rgba(34, 49, 52, 0.9);
+    height: 80px;
+}
+.container-header {
+    height: 60px;
+    margin: 0 20px;
+    padding: 10px;
+}
+
+.header{
+    text-align:center;
+    font-size: 25px;
+    margin: 10px;
+    padding: 10px;
+}
+.Home{
+  height: 15px;
+  width: 15px;
+  display: inline;
+  margin: 10px;
+  padding: 10px;
+}
+.About{
+  height: 15px;
+  width: 15px;
+  display: inline;
+  margin: 10px;
+  padding: 10px;
+}
+.Experience{
+  height: 15px;
+  width: 15px;
+  display: inline;
+  margin: 10px;
+  padding: 10px;
+}
+.Contact{
+  height: 15px;
+  width: 15px;
+  display: inline;
+  margin: 10px;
+  padding: 10px;
+}
+.header a{
+  color:aliceblue;
+}
+
