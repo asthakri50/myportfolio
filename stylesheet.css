@@ -28,28 +28,28 @@ header{
     margin: 10px;
     padding: 10px;
 }
-.Home{
+.navbar-Home{
   height: 15px;
   width: 15px;
   display: inline;
   margin: 10px;
   padding: 10px;
 }
-.About{
+.navbar-About{
   height: 15px;
   width: 15px;
   display: inline;
   margin: 10px;
   padding: 10px;
 }
-.Experience{
+.navbar-Experience{
   height: 15px;
   width: 15px;
   display: inline;
   margin: 10px;
   padding: 10px;
 }
-.Contact{
+.navbar-Contact{
   height: 15px;
   width: 15px;
   display: inline;
