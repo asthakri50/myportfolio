@@ -67,9 +67,19 @@ header{
   margin-right:30px;
   margin-left: 30px;
 }
+
 .profile{
   padding:25px 25px;
   text-align: center;
+}
+.avatar-circle{
+  border-radius: 50%;
+}
+.avatar{
+  width: 270px;
+  height: 270px;
+  margin:0 auto;
+  object-fit: cover;
 }
 h1{
   font-family:'Times New Roman', Times, serif;
