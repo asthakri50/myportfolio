@@ -17,7 +17,7 @@ header{
     height: 80px;
 }
 .container-header {
-    height: 60px;
+    height: 80px;
     margin: 0 20px;
     padding: 10px;
 }
@@ -106,5 +106,9 @@ h3{
   cursor: pointer;
   font-weight:300px;
 }
-
-
+.big-icon{
+  font-size: 10px ;
+}
+a{
+  color:#03afff;
+}
