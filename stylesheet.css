@@ -59,4 +59,42 @@ header{
 .header a{
   color:aliceblue;
 }
+.Home{
+  height: 600px;
+  background-color: #272935;
+}
+.container-Home{
+  margin-right:30px;
+  margin-left: 30px;
+}
+.profile{
+  padding:25px 25px;
+  text-align: center;
+}
+h1{
+  font-family:'Times New Roman', Times, serif;
+}
+.profile-title h1{
+  color: #fff;
+  font-size:60px;
+  font-weight: 500;
+  margin: 20px 0 10px;
+}
+h2{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.profile-title h2{
+  color:rgba(255,255,255,.54);
+  font-size: 25px;
+  font-weight: 300px;
+}
+h3{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.profile-title h3{
+  color: #03afff;
+  cursor: pointer;
+  font-weight:300px;
+}
+
 
