@@ -2,36 +2,32 @@ import React from "react";
 
 const About = () => {
   return (
-    <div name="about" className="w-full bg-gradient-to-b from-gray-800
-    to-black text-white">
-
-      <div className="max-w-screen-lg p-4 mx-auto flex flex-col
-      justify-center w-full h-full">
+    <div
+      name="about"
+      className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white"
+    >
+      <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
-          <p className="text-4xl font-bold inline border-b-4
-          border-gray-500"> About</p>
+          <p className="text-4xl font-bold inline border-b-4 border-gray-500">
+            About
+          </p>
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor sit amet. Ex aliquid quia est dolores voluptas est
-          doloremque mollitia sed culpa recusandae repudiandae eaque et soluta
-          consequatur. Est inventore ducimus et nostrum eligendi non vitae
-          quaerat aut dolorem eaque At maxime earum. Vel maxime aperiam qui
-          accusantium totam aut quibusdam asperiores et quia minima rem quidem
-          cupiditate sit aperiam sunt quo dicta obcaecati. Blanditiis voluptatem
-          et quia facilis vel nihil incidunt et voluptatum blanditiis ex nulla
-          suscipit aut itaque reiciendis.
+          Hi! I am a final year undergraduate student pursuing my Bachelors in
+          Technology from the Indian Institute of Engineering Science and
+          Technology, Shibpur. Currently, I am working in Kentropy Technologies
+          as a Software Developer Intern. My roles include analyzing, design and
+          fixing issues reported in web-applications.
         </p>
 
         <br />
 
-        <p text-xl>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae soluta
-          consectetur cum omnis tempore praesentium facere sit natus aspernatur
-          eaque dignissimos et inventore quis, nihil doloremque quia fuga quae
-          officia recusandae esse minima. Laudantium minus, vitae veniam harum
-          doloribus repudiandae voluptates. Praesentium vitae consequuntur quae
-          facere exercitationem asperiores deleniti voluptates!
+        <p className="text-xl">
+          My area of expertise includes Data Structures and Algorithms using
+          Java. I also love to work on web applications using technologies like
+          React and TailwindCSS. I am also an open-source enthusiast and
+          contribued to various project in GirlScript Summer of Code on GitHub.
         </p>
       </div>
     </div>
