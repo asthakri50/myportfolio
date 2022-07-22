@@ -19,9 +19,9 @@ const Home = () => {
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           </h2>
           <p className="text-gray-500 py-1 max-w-md">
-            I am an aspiring software engineer whose interests lies in solving
-            problems related to software systems. Currently, I am working as a
-            Software Developer Intern at Kentropy.
+            I am an aspiring software engineer whose interests lies in creating
+            backend projects to solve real life problems. I have created projects using Python,
+            Nodejs and Reactjs. Currently, I am working as a Software Developer Intern at Kentropy Technologies Pvt Ltd.
           </p>
 
           <div>
